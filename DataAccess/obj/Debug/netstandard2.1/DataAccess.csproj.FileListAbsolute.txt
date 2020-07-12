@@ -1,0 +1,9 @@
+C:\Users\ONUR\source\repos\ArticleApi\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+C:\Users\ONUR\source\repos\ArticleApi\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\ONUR\source\repos\ArticleApi\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\ONUR\source\repos\ArticleApi\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ONUR\source\repos\ArticleApi\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\Users\ONUR\source\repos\ArticleApi\DataAccess\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\ONUR\source\repos\ArticleApi\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
+C:\Users\ONUR\source\repos\ArticleApi\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\ONUR\source\repos\ArticleApi\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
