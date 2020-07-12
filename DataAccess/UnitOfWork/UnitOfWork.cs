@@ -20,28 +20,5 @@ namespace DataAccess.UnitOfWork
                 return _articleRepository;
             }
         }
-
-        public void Complete()
-        {
-            throw new NotImplementedException();
-        }
-
-        private bool disposedValue = false;
-        protected virtual void Dispose(bool disposing)
-        {
-            if (!disposedValue)
-            {
-                if (disposing)
-                {
-
-                }
-
-                disposedValue = true;
-            }
-        }
-        public void Dispose()
-        {
-            Dispose(true);
-        }
     }
 }

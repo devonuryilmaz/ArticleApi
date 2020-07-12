@@ -5,9 +5,8 @@ using System.Text;
 
 namespace DataAccess.UnitOfWork
 {
-    public interface IUnitOfWork :IDisposable
+    public interface IUnitOfWork
     {
         IArticleRepository ArticleRepository { get; }
-        void Complete();
     }
 }
